@@ -1,4 +1,6 @@
 # rss-service
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/automaid/generic-rss-service.svg)](https://greenkeeper.io/)
 Allow Watching of RSS Feeds
 
 # Configuration
